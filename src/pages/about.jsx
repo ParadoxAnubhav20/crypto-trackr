@@ -1,9 +1,9 @@
 const AboutPage = () => {
   return (
     <div className="about">
-      <h1>About Crypto Dash</h1>
+      <h1>About CryptoTrackr</h1>
       <p>
-        Crypto Dash is a React application that shows live cryptocurrency data
+        CryptoTrackr is a React application that shows live cryptocurrency data
         with the help of the CoinGecko API.
       </p>
       <p>
@@ -22,8 +22,8 @@ const AboutPage = () => {
 
       <footer className="footer">
         <p>
-          © {new Date().getFullYear()} Crypto Dash. Built with React & CoinGecko
-          API.
+          © {new Date().getFullYear()} CryptoTrackr. Built with React &
+          CoinGecko API.
         </p>
       </footer>
     </div>
